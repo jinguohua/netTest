@@ -1,0 +1,16 @@
+PODS:
+  - MyNetworkManager (0.1.0)
+
+DEPENDENCIES:
+  - MyNetworkManager (from `../`)
+
+EXTERNAL SOURCES:
+  MyNetworkManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyNetworkManager: 25538d8848e2c97bd143811429b56551be0eb5e0
+
+PODFILE CHECKSUM: 4dae014a0c17faed974ca9f08a4c92920d555013
+
+COCOAPODS: 1.9.1

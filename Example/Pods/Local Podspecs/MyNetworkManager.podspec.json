@@ -1,0 +1,22 @@
+{
+  "name": "MyNetworkManager",
+  "version": "0.1.0",
+  "summary": "A short description of MyNetworkManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jinguohua/MyNetworkManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jinguohua": "guohua.jin@caibeike.com"
+  },
+  "source": {
+    "git": "https://github.com/jinguohua/MyNetworkManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyNetworkManager/Classes/**/*"
+}
