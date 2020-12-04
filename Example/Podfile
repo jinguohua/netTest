@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MyNetworkManager_Tests' do
+  pod 'MyNetworkManager', :path => '../'
+  
+  
+end
